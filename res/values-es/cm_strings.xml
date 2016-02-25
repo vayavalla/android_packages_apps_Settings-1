@@ -905,8 +905,8 @@
   <string name="wifi_show_open">Mostrar redes abiertas</string>
   <string name="wifi_empty_list_protected">No hay redes Wi\u2011Fi protegidas</string>
   <string name="wifi_empty_list_open">No hay redes Wi\u2011Fi abiertas</string>
-  <string name="wifi_setting_countrycode_title">Código de región Wiu2011Fi</string>
-  <string name="wifi_setting_countrycode_summary">Especificar el código de región Wiu2011Fi</string>
+  <string name="wifi_setting_countrycode_title">Código de región Wi\u2011Fi</string>
+  <string name="wifi_setting_countrycode_summary">Especificar el código de región Wi\u2011Fi</string>
   <string name="wifi_setting_countrycode_error">Ocurrió un error al establecer el código de región.</string>
   <string name="wifi_countrycode_entries_us">Estados Unidos</string>
   <string name="wifi_countrycode_entries_ca">Canadá, Taiwán</string>
